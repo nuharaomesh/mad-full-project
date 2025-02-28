@@ -1,0 +1,6 @@
+[submodule "amigo-front"]
+	path = amigo-front
+	url = https://github.com/nuharaomesh/Amigo.git
+[submodule "amigo-back-end"]
+	path = amigo-back-end
+	url = https://github.com/nuharaomesh/amigo-back-end.git
